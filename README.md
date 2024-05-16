@@ -4,6 +4,9 @@
  * @E-mail: itgoyo@gmail.com
  * @Github: itgoyo
 -->
+
+# 这里记录自己搜集到的 Telegram Group 或 channel
+
 ##### 推广
 
 *   广告位招商，有意@ echo.qingwen@gmail.com 【中国人不骗中国人，不接黄赌毒、政治、敏感、等不良广告】
