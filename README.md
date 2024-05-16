@@ -5,7 +5,8 @@
  * @Github: itgoyo
 -->
 
-# 这里记录自己搜集到的 Telegram Group 或 channel
+# TelegramGroups
+这里收集了1000+个Telegram群和频道，如果有更多好玩的telegram群或频道，欢迎在 issue 提出或者pull requests
 
 ##### 推广
 
