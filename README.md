@@ -9,57 +9,6 @@
 *   广告位招商，有意@ echo.qingwen@gmail.com 【中国人不骗中国人，不接黄赌毒、政治、敏感、等不良广告】
 * twitter: https://twitter.com/shadouyoua   
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://curl.qcloud.com/43JC4fAE">
-        <img src="https://upload-dianshi-1255598498.file.myqcloud.com/345x200-08ea7ec01febe3c7f600608e973fc44f43efec34.jpg" width="345px;" alt="1"/>
-      </a>
-      <br />
-      <a href="https://curl.qcloud.com/43JC4fAE">优惠套餐一</a>
-    </td>
-    <td align="center">
-      <a href="https://curl.qcloud.com/uis5UuWB">
-        <img src="https://cdn.jsdelivr.net/gh/itgoyo/PicGoRes@master/img/%E5%A5%88%E9%A3%9E.png" width="345px;" alt="2"/>
-      </a>
-      <br />
-      <a href="https://universalbus.cn/?s=SylOu1w6fa://curl.qcloud.com/uis5UuWB">奈飞合租</a>
-    </td>
-     <td align="center">
-      <a href="https://aws.amazon.com/cn/free/?sc_channel=seo&sc_campaign=video3">
-        <img src="https://cdn.jsdelivr.net/gh/itgoyo/PicGoRes@master/img/aws.png" width="345px;" alt="3"/>
-      </a>
-      <br />
-      <a href="https://aws.amazon.com/cn/free/?sc_channel=seo&sc_campaign=video3">免费云服务器</a>
-    </td>
-     </tr>
-  <tr>
-    <td align="center">
-      <a href="https://my.frantech.ca/aff.php?aff=6147">
-        <img src="https://cdn.jsdelivr.net/gh/itgoyo/PicGoRes@master/img/buyvm_aff.png" width="345px;" alt="1"/>
-      </a>
-      <br />
-      <a href="https://my.frantech.ca/aff.php?aff=6147">￥10一个月的海外VPS</a>
-    </td>
-    <td align="center">
-      <a href="https://my.racknerd.com/aff.php?aff=6211">
-        <img src="https://cdn.jsdelivr.net/gh/itgoyo/PicGoRes@master/img/racknerd_aff.png" width="345px;" alt="2"/>
-      </a>
-      <br />
-      <a href="https://my.racknerd.com/aff.php?aff=6211">48.77每年超高速VPS</a>
-    </td>
-    <td align="center">
-      <a href="https://item.taobao.com/item.htm?id=692094716108">
-        <img src="https://cdn.jsdelivr.net/gh/itgoyo/PicGoRes@master/img/office365.jpg" width="345px;" alt="2"/>
-      </a>
-      <br />
-      <a href="https://item.taobao.com/item.htm?id=692094716108">￥36一年的office365车位</a>
-    </td>
-
-</table>
-
-国内便宜云主机：莱卡云 https://www.lcayun.com/aff/RRECTRHQ   香港 CN2 GIA ￥35
-
 ##### 推荐
 
 *   顶级开源项目分享频道 [https://t.me/top_opensource_project](https://t.me/top_opensource_project)
