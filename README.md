@@ -16,13 +16,13 @@
 ##### 推荐
 
 *   顶级开源项目分享频道 [https://t.me/top_opensource_project](https://t.me/top_opensource_project)
-* Hacker News中文摘要频道 [https://t.me/hackerNewsSummary007]
+*   Hacker News中文摘要频道 [https://t.me/hackerNewsSummary007]
 *   Telegram 客户端界面中文汉化:[https://t.me/yxbjx/2255803](https://t.me/yxbjx/2255803)
 *   Telegram 知识库:[https://t.me/YinxiangBiji_News/954](https://t.me/YinxiangBiji_News/954)
 *   Telegram 中文频道:[https://t.me/YinxiangBiji_News](https://t.me/YinxiangBiji_News)
 *   Telegram 十万人群:[https://t.me/yxbjx](https://t.me/yxbjx)
 *   Telegram 中文圈:[https://t.me/tgzhcn](https://t.me/tgzhcn)
-*   Telegram 超级搜索🔥超级搜索🔥搜片神器🔥中文搜索🔥TG 神器🔥中文群组🔥:[https://t.me/chaojisoso520](https://t.me/chaojisoso520)
+*   Telegram 超级搜索🔥超级搜索🔥搜片神器🔥中文搜索🔥TG 神器🔥中文群组🔥:[https://t.me/jisou](https://t.me/jisou)
 *   Telegram 全网直播回放🔥抖音🔥斗鱼🔥虎牙🔥B站🔥等等🔥:[https://t.me/luzhiob](https://t.me/luzhiob)
 
 
@@ -30,17 +30,12 @@
 
 ###### 京豆
 
-*   Faker:[https://t.me/jdscrip](https://t.me/jdscrip)
-*   Aaron-lv :[https://t.me/aaron_scriptsG](https://t.me/aaron_scriptsG)
-*   jdShareCode:[https://t.me/jdShareCode](https://t.me/jdShareCode)
 *   PKC皮卡车:[https://t.me/jdscrip](https://t.me/topstyle996)
-*   互助研究院:[https://t.me/update_help](https://t.me/update_help)
 *   Leeco-雪花社:[https://t.me/xuehuashe](https://t.me/xuehuashe)
 
 ###### 番茄[](https://congcong0806.github.io/2018/04/24/Telegram/#%E7%BF%BB%E5%A2%99)
 
 *   搬瓦工 (BandwagonHost):[https://t.me/BandwagonHostUsers](https://t.me/BandwagonHostUsers)
-*   机场交流群:[https://t.me/rixCloud_User](https://t.me/rixCloud_User)
 *   Surge 交流:[https://t.me/loveapps](https://t.me/loveapps)
 *   Surge Pro:[https://t.me/SurgePro](https://t.me/SurgePro)
 *   Quantumult X:[https://t.me/QuanXApp](https://t.me/QuanXApp)
