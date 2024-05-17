@@ -13,10 +13,13 @@
 *   广告位招商，有意@ echo.qingwen@gmail.com 【中国人不骗中国人，不接黄赌毒、政治、敏感、等不良广告】
 * twitter: https://twitter.com/shadouyoua   
 
-##### 推荐
+##### 必定的频道
 
 *   顶级开源项目分享频道 [https://t.me/top_opensource_project](https://t.me/top_opensource_project)
 *   Hacker News中文摘要频道 [https://t.me/hackerNewsSummary007]
+
+##### 推荐
+
 *   Telegram 客户端界面中文汉化:[https://t.me/yxbjx/2255803](https://t.me/yxbjx/2255803)
 *   Telegram 知识库:[https://t.me/YinxiangBiji_News/954](https://t.me/YinxiangBiji_News/954)
 *   Telegram 中文频道:[https://t.me/YinxiangBiji_News](https://t.me/YinxiangBiji_News)
@@ -42,7 +45,6 @@
 *   Quantumult:[https://t.me/quantumult](https://t.me/quantumult)
 *   Shadowrocket:[https://t.me/ShadowrocketApp](https://t.me/ShadowrocketApp)
 *   Loon:[https://t.me/Loon0x00](https://t.me/Loon0x00)
-*   Choc:[https://t.me/choc_tg](https://t.me/choc_tg)
 *   LanceX:[https://t.me/lancex_app](https://t.me/lancex_app)
 *   DivineEngine Chat:[https://t.me/joinchat/BlP48kmUGY-iR41Iq11-3w](https://t.me/joinchat/BlP48kmUGY-iR41Iq11-3w)
 *   Quantumult X、Surge、Loon 的脚本讨论:[https://t.me/joinchat/JikZ61Y-WyLUu6dBFPfu6w](https://t.me/joinchat/JikZ61Y-WyLUu6dBFPfu6w)
