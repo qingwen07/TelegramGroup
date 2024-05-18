@@ -7,11 +7,7 @@
 
 # TelegramGroups
 这里收集了1000+个Telegram群和频道，如果有更多好玩的telegram群或频道，欢迎在 issue 提出或者pull requests
-
-##### 推广
-
-*   广告位招商，有意@ echo.qingwen@gmail.com 【中国人不骗中国人，不接黄赌毒、政治、敏感、等不良广告】
-* twitter: https://twitter.com/shadouyoua   
+或者直接在twitter上给我反馈：https://twitter.com/shadouyoua   
 
 ##### 有志青年必定频道
 
