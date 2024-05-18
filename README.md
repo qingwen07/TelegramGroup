@@ -13,7 +13,7 @@
 *   广告位招商，有意@ echo.qingwen@gmail.com 【中国人不骗中国人，不接黄赌毒、政治、敏感、等不良广告】
 * twitter: https://twitter.com/shadouyoua   
 
-##### 必定的频道
+##### 有志青年必定频道
 
 *   顶级开源项目分享频道 [https://t.me/top_opensource_project](https://t.me/top_opensource_project)
 *   Hacker News中文摘要频道 [https://t.me/hackerNewsSummary007]
@@ -25,7 +25,7 @@
 *   Telegram 中文频道:[https://t.me/YinxiangBiji_News](https://t.me/YinxiangBiji_News)
 *   Telegram 十万人群:[https://t.me/yxbjx](https://t.me/yxbjx)
 *   Telegram 中文圈:[https://t.me/tgzhcn](https://t.me/tgzhcn)
-*   Telegram 超级搜索🔥超级搜索🔥搜片神器🔥中文搜索🔥TG 神器🔥中文群组🔥:[https://t.me/jisou](https://t.me/jisou)
+*   Telegram 超级搜索🔥超级搜索🔥搜片神器🔥中文搜索🔥TG 神器🔥中文群组🔥:[https://t.me/jisou_007](https://t.me/jisou_007)
 *   Telegram 全网直播回放🔥抖音🔥斗鱼🔥虎牙🔥B站🔥等等🔥:[https://t.me/luzhiob](https://t.me/luzhiob)
 
 
@@ -38,6 +38,8 @@
 
 ###### 番茄[](https://congcong0806.github.io/2018/04/24/Telegram/#%E7%BF%BB%E5%A2%99)
 
+*   影视搜索群：[https://t.me/VodStore](https://t.me/VodStore)
+*   破解软件中文社群：[https://t.me/tfwzclz](https://t.me/tfwzclz)
 *   搬瓦工 (BandwagonHost):[https://t.me/BandwagonHostUsers](https://t.me/BandwagonHostUsers)
 *   Surge 交流:[https://t.me/loveapps](https://t.me/loveapps)
 *   Surge Pro:[https://t.me/SurgePro](https://t.me/SurgePro)
@@ -931,19 +933,6 @@
 *   河南郑州:[https://t.me/hnzzs](https://t.me/hnzzs)
 *   河南周口:[https://t.me/zhoukou](https://t.me/zhoukou)
 
-###### 新冠肺炎[](https://congcong0806.github.io/2018/04/24/Telegram/#%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E)
-
-*   #nCoV 主群（疫区疫情新闻 / 互助）:[https://t.me/joinchat/OElQrFZiBp5If1A90UCnsg](https://t.me/joinchat/OElQrFZiBp5If1A90UCnsg)
-*   #nCoV 武汉封城自由讨论区:[https://t.me/joinchat/OElQrFKWIz_B1qtkNwE7qA](https://t.me/joinchat/OElQrFKWIz_B1qtkNwE7qA)
-*   #nCoV English discussion:[https://t.me/WuhanCorona](https://t.me/WuhanCorona)
-*   #nCoV 粤语 / HK / 繁體疫區疫情:[https://t.me/joinchat/OElQrBQ_WvPb4juxJAJkgw](https://t.me/joinchat/OElQrBQ_WvPb4juxJAJkgw)
-*   #nCoV 美国疫情讨论区:[https://t.me/US2019nCOV](https://t.me/US2019nCOV)
-*   武汉肺炎新型病毒交流群:[https://t.me/zhaook](https://t.me/zhaook)
-*   武汉肺炎疫情交流:[https://t.me/wuhangroup](https://t.me/wuhangroup)
-*   武汉肺炎疫情交流讨论:[https://t.me/SARSnew](https://t.me/SARSnew)
-*   新冠肺炎 (COVID-19) 讨论群:[https://t.me/CoronavirusDiscuss](https://t.me/CoronavirusDiscuss)
-*   美国华人抗冠状病毒群:[https://t.me/FightSARI](https://t.me/FightSARI)
-
 ###### 其他[](https://congcong0806.github.io/2018/04/24/Telegram/#%E5%85%B6%E4%BB%96)
 
 *   Coder Offtopic 中文群:[https://t.me/coder_ot](https://t.me/coder_ot)
@@ -1679,33 +1668,6 @@
 *   Syn X Emby:[https://t.me/Synembyaj](https://t.me/Synembyaj)
 *   二手🐴:[https://t.me/SecHorse](https://t.me/SecHorse)
 *   用爱发电俱乐部:[https://t.me/NotionFans](https://t.me/NotionFans)
-
-###### 新冠肺炎[](https://congcong0806.github.io/2018/04/24/Telegram/#%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E-1)
-
-*   2019-nCoV 疫情实时播报🅥:[https://t.me/nCoV2019](https://t.me/nCoV2019)
-*   新型冠状病毒最新疫情推送频道:[https://t.me/CoronavirusNews](https://t.me/CoronavirusNews)
-*   丁香园肺炎疫情播报:[https://t.me/ncovPneumonia](https://t.me/ncovPneumonia)
-*   霍金斯大学 nCoV 全球实时数据:[https://t.me/JHU_nCoV_API](https://t.me/JHU_nCoV_API)
-*   Wuhan Quarantine #nCoV #武汉封城:[https://t.me/wuhanquarantinefrom20200123](https://t.me/wuhanquarantinefrom20200123)
-*   2019-nCoV 实况:[https://t.me/CN2019nCoV](https://t.me/CN2019nCoV)
-*   2019-nCoV 疫情相关资讯发布:[https://t.me/WuHan2019nCoV](https://t.me/WuHan2019nCoV)
-*   Financial Times: Coronavirus news:[https://t.me/financialtimes](https://t.me/financialtimes)
-*   全平台口罩放货监控:[https://t.me/jdkzjk](https://t.me/jdkzjk)
-*   新型冠狀病毒肺炎疫情頻道:[https://t.me/NCVMacao](https://t.me/NCVMacao)
-*   疫情趋势图 & 信息图:[https://t.me/nCoV2019Graph](https://t.me/nCoV2019Graph)
-*   Coronavirus Info:[https://t.me/corona](https://t.me/corona)
-*   印度:[https://t.me/MyGovCoronaNewsdesk](https://t.me/MyGovCoronaNewsdesk)
-*   以色列:[https://t.me/MOHreport](https://t.me/MOHreport)
-*   哈萨克斯坦:[https://t.me/coronavirus2020_kz](https://t.me/coronavirus2020_kz)
-*   马来西亚:[https://t.me/cprckkm](https://t.me/cprckkm)
-*   乌兹别克斯坦:[https://t.me/koronavirusinfouz](https://t.me/koronavirusinfouz)
-*   沙特:[https://t.me/LiveWellMOH](https://t.me/LiveWellMOH)
-*   新加坡:[https://t.me/govsg](https://t.me/govsg)
-*   西班牙:[https://t.me/sanidadgob](https://t.me/sanidadgob)
-*   乌克兰:[https://t.me/COVID19_Ukraine](https://t.me/COVID19_Ukraine)
-*   俄罗斯:[https://t.me/stopcoronavirusrussia](https://t.me/stopcoronavirusrussia)
-*   香港:[https://t.me/HKFIGHTCOVID19](https://t.me/HKFIGHTCOVID19)
-*   德国:[https://t.me/corona_infokanal_bmg](https://t.me/corona_infokanal_bmg)
 
 ###### 其他[](https://congcong0806.github.io/2018/04/24/Telegram/#%E5%85%B6%E4%BB%96-1)
 
