@@ -52,7 +52,6 @@
 *   Quantumult X、Surge、Loon 的脚本讨论:[https://t.me/joinchat/JikZ61Y-WyLUu6dBFPfu6w](https://t.me/joinchat/JikZ61Y-WyLUu6dBFPfu6w)
 *   thor，Quantumult X，小火箭 JSBox 交流群:[https://t.me/weixiaoge777](https://t.me/weixiaoge777)
 *   Dler Cloud 用户群:[https://t.me/DlerCloud_bot](https://t.me/DlerCloud_bot) (绑定账号后，会给你发送群链接)
-*   魅影极速:
 *   魅影极速分站 ARK:[https://t.me/joinchat/HOQoQ0gXFKNdjqQ1S5ymfA](https://t.me/joinchat/HOQoQ0gXFKNdjqQ1S5ymfA)
 *   薯条 SSRCloud:[https://t.me/joinchat/7gim2aHm7I0xZTE1](https://t.me/joinchat/7gim2aHm7I0xZTE1)
 *   Precision Cloud:[https://t.me/precisioncloudgroup](https://t.me/precisioncloudgroup)
