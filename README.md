@@ -9,7 +9,7 @@
 这里收集了1000+个Telegram群和频道，如果有更多好玩的telegram群或频道，欢迎在 issue 提出或者pull requests
 或者直接在twitter上给我反馈：https://twitter.com/shadouyoua   
 
-##### 有志青年必定频道
+### 有志青年必定频道
 
 *   顶级开源项目分享频道 [https://t.me/top_opensource_project](https://t.me/top_opensource_project)
 *   Hacker News中文摘要频道 [https://t.me/hackerNewsSummary007]
