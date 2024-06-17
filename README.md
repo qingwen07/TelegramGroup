@@ -9,12 +9,16 @@
 这里收集了1000+个Telegram群和频道，如果有更多好玩的telegram群或频道，欢迎在 issue 提出或者pull requests
 或者直接在twitter上给我反馈：https://twitter.com/shadouyoua   
 
+## 靠谱资源分享
+
+*   已经身体力行好几年，稳定快速的梯子：[https://33226.kejibear.site/auth/register?code=BRli](https://33226.kejibear.site/auth/register?code=BRli)
+
 ### 有志青年必定频道
 
 *   顶级开源项目分享频道 [https://t.me/top_opensource_project](https://t.me/top_opensource_project)
 *   Hacker News中文摘要频道 [https://t.me/hackerNewsSummary007]
 
-##### 推荐
+### 推荐
 
 *   只有想不到没有搜不到的搜索神器🔥搜片神器🔥中文搜索🔥TG 神器🔥:[https://t.me/jisou_007](https://t.me/jisou_007)
 *   Telegram 客户端界面中文汉化:[https://t.me/yxbjx/2255803](https://t.me/yxbjx/2255803)
