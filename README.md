@@ -12,7 +12,7 @@
 ## 靠谱资源分享
 
 ###   1、已经身体力行好几年，稳定快速的梯子：[https://33226.kejibear.site/auth/register?code=BRli](https://33226.kejibear.site/auth/register?code=BRli)
-### 2、各种AI、电视伴侣、流媒体账号，家庭影音设备推荐：[点击上车](https://nf.video/b6eelz)
+### 2、各种AI、电视伴侣、流媒体账号，家庭影音设备推荐(优惠码：顶级开源)：[点击上车](https://nf.video/b6eelz)
 
 ## 有志青年必定频道
 
